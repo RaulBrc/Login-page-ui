@@ -28,15 +28,8 @@ Meu primeiro projeto de uma tela de login moderna e responsiva, desenvolvido com
 
 ---
 
-## ▶️ Como usar
-
-```bash
-# Cole no navegador
-git cole https://raulbrc.github.io/Login-page/
-
-# Abra o arquivo
-index.html
-```
+## 🌐 Deploy
+https://raulbrc.github.io/Login-page-ui/
 
 ---
 
